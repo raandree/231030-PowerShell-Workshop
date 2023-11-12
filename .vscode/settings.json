@@ -1,0 +1,11 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "\\Modules\\PSLog\\5.49.1535\\PSLog.psm1",
+            "group": "Default"
+        }
+    ],
+    "powershell.codeFormatting.addWhitespaceAroundPipe": false,
+    "powershell.codeFormatting.alignPropertyValuePairs": false,
+    "powershell.codeFolding.showLastLine": false
+}
